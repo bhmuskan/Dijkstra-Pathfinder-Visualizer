@@ -32,8 +32,8 @@ A **Python** project visualizing **Dijkstra's pathfinding algorithm** using **Py
 
 ## 🖌️ Color Key
 | Color | Meaning        |
-|-------|----------------|
-| Light Blue | Start point |
+|------- |----------------|
+| Aqua       | Start point |
 | Yellow     | Target point |
 | Gray       | Unvisited cell |
 | Black      | Wall/obstacle |
